@@ -7,8 +7,5 @@
     "default_popup": "popup.html"
   },
   "permissions": [],
-  "host_permissions": [],
-  "background": {
-    "service_worker": "background.js"
-  }
+  "host_permissions": []
 }
