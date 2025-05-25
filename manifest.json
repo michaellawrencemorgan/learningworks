@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Learning Works Credit Tracker",
+  "version": "1.0",
+  "description": "Track high school credits toward graduation in alternative learning settings.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [],
+  "host_permissions": [],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
